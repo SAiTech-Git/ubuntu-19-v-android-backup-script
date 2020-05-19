@@ -1,4 +1,4 @@
-#!/data/data/com.termux/usr/Bin/bash e
+#!/data/data/com.termux/files/usr/Bin/bash e
 # Script StArt Intro
 echo "This Is Script Used To Backup Ubuntu19 (Downloaded From Andronix) For Android"
 echo "Read the following carefully"
