@@ -13,7 +13,7 @@ echo "Compressing Ubuntu19 packages"
 # macking Countdown
 sleep 1 && echo "1.."
 sleep 1 && echo "2.."
-sleeo 1 && echo "3.."
+sleep 1 && echo "3.."
 echo "Go!...."
 # Using Tar In V Mode
 #Zip Type gzip
